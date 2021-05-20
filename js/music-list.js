@@ -10,5 +10,11 @@ let allMusic = [
     artist: "Wu",
     img: "music-2",
     src: "music-2"
+  },
+  {
+    name: "URU-CAN",
+    artist: "Matthaios",
+    img: "music-3",
+    src: "music-3"
   }
 ];
